@@ -1,8 +1,8 @@
 #EXTM3U
 group-title="Sports"
-#EXTINF:-1,24/7: ESPN 30 For 30
+#EXTINF:-1,24/7: ESPN 30 For 30 group-title="Sports"
 http://mains.services/live/pmf0423/1aku0jt%40/012a368a-3875-4367-93de-b0ef80dd7dc8.m3u
-#EXTINF:-1,24/7: WWE Legends House
+#EXTINF:-1,24/7: WWE Legends House group-title="Sports"
 http://mains.services/live/pmf0423/1aku0jt%40/a516b743-1696-49f1-9e7d-43fc59c63453.m3u
 #EXTINF:-1,24/7: WWE Money in the Bank
 http://mains.services/live/pmf0423/1aku0jt%40/65cd8d7f-bd50-4c57-b695-113bd4676ccf.m3u
