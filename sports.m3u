@@ -181,16 +181,6 @@ http://mains.services/live/pmf0423/1aku0jt%40/83eba5bb-b7bc-4182-aee7-cfe925f849
 http://mains.services/live/pmf0423/1aku0jt%40/d215288b-761d-4a62-93ca-ddb70b45ed3d.m3u
 #EXTINF:-1 group-title="GOLF",PGA : US GOLF CHANNEL 
 http://mains.services/live/pmf0423/1aku0jt%40/ace36dfd-1f18-4dd4-b4b8-9de27a9e8fd1.m3u
-#EXTINF:-1 group-title="LIVE",STVP_US: BEIN SPORTS XTRA 
-http://mains.services/live/pmf0423/1aku0jt%40/d8669e77-30b9-4bab-b39e-03d32a0c75ac.m3u
-#EXTINF:-1 group-title="LIVE",STVP_US: CBS SPORTS HQ 
-http://mains.services/live/pmf0423/1aku0jt%40/fb9d50ad-b5ba-40ac-970b-f380824d9be7.m3u
-#EXTINF:-1 group-title="LIVE",STVP_US: MLB CHANNEL 
-http://mains.services/live/pmf0423/1aku0jt%40/d5ab0dfb-e0e9-4a7a-ba35-4da83316ab4b.m3u
-#EXTINF:-1 group-title="LIVE",STVP_US: NBC SPORTS 
-http://mains.services/live/pmf0423/1aku0jt%40/44e2b528-f266-438d-a81d-811d0cb591a1.m3u
-#EXTINF:-1 group-title="LIVE",STVP_US: NFL CHANNEL 
-http://mains.services/live/pmf0423/1aku0jt%40/aa417193-8bb3-4b2d-82b2-44bff3e289c9.m3u
 #EXTINF:-1 group-title="LIVE",BEIN SPORTS 
 http://mains.services/live/pmf0423/1aku0jt%40/56582989-3b75-4463-8747-0bd28a1abfa4.m3u
 #EXTINF:-1 group-title="LIVE",CBS SPORTS HQ 
@@ -241,24 +231,6 @@ http://mains.services/live/pmf0423/1aku0jt%40/f5cd31c5-e0ca-4682-9c74-da67bd3b6f
 http://mains.services/live/pmf0423/1aku0jt%40/14acb182-009e-4c8f-874f-79060955717f.m3u
 #EXTINF:-1 group-title="LIVE",NFL NETWORK FHD 1080 
 http://mains.services/live/pmf0423/1aku0jt%40/7f30341d-ef92-41fa-b4cb-60ebff3adbd7.m3u
-#EXTINF:-1 group-title="LIVE",US-720 : CBS SPORTS NETWORK 
-http://mains.services/live/pmf0423/1aku0jt%40/3ff87d53-cf02-429b-9a27-ec71a8bcdbf0.m3u
-#EXTINF:-1 group-title="LIVE",US-720 : ESPN 
-http://mains.services/live/pmf0423/1aku0jt%40/4123b415-8cb4-45c8-b4fa-87a6dae7e4c4.m3u
-#EXTINF:-1 group-title="LIVE",US-720 : ESPN 2 
-http://mains.services/live/pmf0423/1aku0jt%40/f28d1f3e-5646-4319-af01-a8c3473e7ec7.m3u
-#EXTINF:-1 group-title="LIVE",US-720 : ESPN NEWS 
-http://mains.services/live/pmf0423/1aku0jt%40/ab5d392c-9781-4d28-9790-7bf61663aaa4.m3u
-#EXTINF:-1 group-title="LIVE",US-720 : ESPN U 
-http://mains.services/live/pmf0423/1aku0jt%40/e77f6418-d05a-4736-84ad-56ea15ef4791.m3u
-#EXTINF:-1 group-title="LIVE",US-720 : GOLF CHANNEL 
-http://mains.services/live/pmf0423/1aku0jt%40/ba86beee-90a1-407a-9b65-8f8e5d22b13e.m3u
-#EXTINF:-1 group-title="LIVE",US-720 : MLB NETWORK 
-http://mains.services/live/pmf0423/1aku0jt%40/8110debb-bf54-49b3-9aaf-8fc185c1fda7.m3u
-#EXTINF:-1 group-title="LIVE",US-720 : NBA TV 
-http://mains.services/live/pmf0423/1aku0jt%40/99ef48b3-b908-40ab-8273-708e6eb4a63c.m3u
-#EXTINF:-1 group-title="LIVE",US-720 : TENNIS CHANNEL 
-http://mains.services/live/pmf0423/1aku0jt%40/bbd7622f-4495-466d-8a6c-609457e4219a.m3u
 #EXTINF:-1 group-title="NBA",NBA ATLANTA HAWKS 
 http://mains.services/live/pmf0423/1aku0jt%40/ee8c5b05-c397-448e-80eb-7cff830dee93.m3u
 #EXTINF:-1 group-title="NBA",NBA BOSTON CELTICS 
