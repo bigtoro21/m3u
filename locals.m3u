@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:-1,OH | YOUNGSTOWN | 21 WFMJ
+#EXTINF:-1 tvg-id="" tvg-name="WFMJ 21" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/WFMJ-21NBC.png/revision/latest?cb=20170210231425" group-title="LOCAL",WFMJ 21
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/106566
 
-#EXTINF:-1,OH | YOUNGSTOWN | WYFX
+#EXTINF:-1 tvg-id="" tvg-name="WYFX FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/WYFX_Fox_Youngstown.svg/960px-WYFX_Fox_Youngstown.svg.png" group-title="LOCAL",WYFX FOX
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/106465
 
-#EXTINF:-1,OH | CLEVELAND ABC | WEWS
+#EXTINF:-1 tvg-id="" tvg-name="WEWS ABC 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/American_Broadcasting_Company_Logo.svg" group-title="LOCAL",WEWS ABC 5
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/107856
 
-#EXTINF:-1,OH | CLEVELAND FOX | WJW
+#EXTINF:-1 tvg-id="" tvg-name="WJW FOX 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/WJW_Fox_8_News_2019.svg/revision/latest?cb=20220109164207" group-title="LOCAL",WJW FOX 8
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/106437
 
-#EXTINF:-1,OH | CLEVELAND NBC | WKYC
+#EXTINF:-1 tvg-id="" tvg-name="WKYC NBC 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/NBC_logo_2022.svg" group-title="LOCAL",WKYC NBC 3
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/106579
 
-#EXTINF:-1,OH | YOUNGSTOWN | WKBN 27
+#EXTINF:-1 tvg-id="" tvg-name="WKBN 27" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/WKBN_new_June2020.png/revision/latest?cb=20240412152229" group-title="LOCAL",WKBN 27
 http://philgrim.online:2082/viktor22/JdqR5ksgQ3YKY/371275
